@@ -1,0 +1,82 @@
+=== ID: 5001 ===
+Antarctic Route
+Closing Time
+Elder's Eye
+Road to Charteris Base
+
+=== ID: 5002 ===
+Bifrost Shortcut
+Loki's New Order
+Raven's Message
+Revitalized
+Road to Yggsgard
+Suppress the Uprising
+Thor's Return
+
+=== ID: 5003 ===
+Across the Spider-Verse
+Charge the Web
+Fall from Grace
+Fix the Web
+Next Stop Ahead
+Road to Tokyo 2099
+Shin-Shibuya Heights
+
+=== ID: 5004 ===
+Ascending to Djalia
+Chronovium Extracted
+Clean the Corrption
+Enter the Intergalactic Empire of Wakanda
+Haunted by the Abyss
+Panther's Target
+Starry Arrival
+
+=== ID: 5005 ===
+Back to Rightful Hands
+Crawling in Shadows
+Creator Cannot Be Denied
+Dust to Dust
+Glorious Revolution
+Grand Rebirth
+Guardians Score!
+Milano Down
+Road to the Celestial Husk
+Road to the Throne of Knull
+Upon the Symbiotic Surface
+
+=== ID: 5006 ===
+Acorn Strike Force
+Going Down
+Key to Khonshu's Door
+Mighty H.E.R.B.I.E.
+Montesi Formula
+Poor H.E.R.B.I.E.
+Road to Central Park
+Road to Midtown
+Road to the Sanctum Sanctorum
+Scattered Pages
+The Red-Eye Flight
+Until Dawn
+
+=== ID: 5007 ===
+K'UN-LUN
+Let the Sleeping Dragon Die
+Let the Sleeping Dragon Fly
+Road to the Heart of Heaven
+
+=== ID: 5008 ===
+Avatar's Arrival
+Doom's Platform
+Fall of X-Tron
+Iahaha!
+Okkara As One
+Rising Threat
+Road to Arakko
+Road to Krakoa
+Ultron Reborn
+
+=== ID: 5015 ===
+Broken Contract
+GRAND GARDEN
+Road to the Grand Garden
+
